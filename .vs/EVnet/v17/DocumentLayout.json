@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorb\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\EVnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11016DF8-65C1-47C9-996B-89440A7F9371}|EVnet\\EVnet.csproj|c:\\users\\igorb\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\evnet\\evnet\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11016DF8-65C1-47C9-996B-89440A7F9371}|EVnet\\EVnet.csproj|solutionrelative:evnet\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11016DF8-65C1-47C9-996B-89440A7F9371}|EVnet\\EVnet.csproj|c:\\users\\igorb\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\evnet\\evnet\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11016DF8-65C1-47C9-996B-89440A7F9371}|EVnet\\EVnet.csproj|solutionrelative:evnet\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\EVnet\\EVnet\\View\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "EVnet\\View\\LogIn.xaml.cs",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\EVnet\\EVnet\\View\\LogIn.xaml.cs",
+              "RelativeToolTip": "EVnet\\View\\LogIn.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:32:52.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "C:\\Users\\igorb\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\EVnet\\EVnet\\View\\LogIn.xaml",
+              "RelativeDocumentMoniker": "EVnet\\View\\LogIn.xaml",
+              "ToolTip": "C:\\Users\\igorb\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\EVnet\\EVnet\\View\\LogIn.xaml",
+              "RelativeToolTip": "EVnet\\View\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:03:49.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
