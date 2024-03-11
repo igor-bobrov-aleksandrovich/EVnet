@@ -17,3 +17,14 @@ C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\Controls\Contro
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\Controls\ControlBig.baml
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\View\LogIn.g.cs
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\View\LogIn.baml
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\ControlzEx.dll
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\MahApps.Metro.dll
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\ControlzEx.pdb
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\ControlzEx.xml
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\MahApps.Metro.pdb
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\MahApps.Metro.xml
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\EVnet.csproj.Up2Date
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\Dictionary.baml

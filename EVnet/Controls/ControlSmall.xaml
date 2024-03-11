@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:EVnet.Controls"
              mc:Ignorable="d" 
              d:DesignHeight="30" d:DesignWidth="800">
-    <Grid Background="#FF1E1E1E" MouseDown="Grid_MouseDown">
+    <Grid Background="#FF1A1A1A" MouseDown="Grid_MouseDown">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="300" />
             <ColumnDefinition Width="726*"/>
@@ -18,20 +18,20 @@
             Grid.Column="2"
             Height="25"
             Width="25"
-            Background="#FF1E1E1E"
+            Background="#FF1A1A1A"
             FontSize="15"
             Content="—"
-            Foreground="#FF8A56E1" 
+            Foreground="#FF5928AB" 
             Click="btnHide_Click" Cursor="Hand"/>
         <Button x:Name="btnClose"
             Grid.Column="3"
             Height="25"
             Width="25"
-            Background="#FF1E1E1E"
+            Background="#FF1A1A1A"
             FontSize="15"
             Content="X"
-            Foreground="#FF8A56E1" 
+            Foreground="#FF5928AB" 
             Click="btnClose_Click" Cursor="Hand"/>
-        <Rectangle Grid.Column="0"  Height="35" VerticalAlignment="Top" Width="300" Fill="#FF271E4D"/>
+        <Rectangle Grid.Column="0"  Height="35" VerticalAlignment="Top" Width="300" Fill="#FF211A3C"/>
     </Grid>
 </UserControl>

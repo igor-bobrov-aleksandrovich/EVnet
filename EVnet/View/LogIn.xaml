@@ -5,14 +5,43 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:EVnet.View"
         mc:Ignorable="d"
-        Title="SignIn" Height="450" Width="800" Background="#FF1A1A1A" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="SignIn" Height="450" Width="800"  Background="#FF1E1E1E" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid x:Name="MainGrid">
         <Grid.RowDefinitions>
             <RowDefinition Height="30"/>
             <RowDefinition Height="409*"/>
         </Grid.RowDefinitions>
-        <Grid x:Name="SignInGrid">
-            
+        <Grid x:Name="SignInGrid" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300"/>
+                <ColumnDefinition Width="589*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Background="#FF271E4D">
+                <Label FontSize="33" 
+                       Content="Sign Up" 
+                       FontFamily="Segoe UI Black"
+                       Foreground="#FFEAEAEA" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center" 
+                       Margin="0 90 0 0"/>
+                <Label FontSize="15" 
+                       Content="Enter Your personal info and create" 
+                       Foreground="#FFD0D0D0" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center" 
+                       Margin="0 10 0 0"/>
+                <Label FontSize="15" 
+                       Content="new account to connect us" 
+                       Foreground="#FFD0D0D0" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Center"/>
+                <Button Content="Sign Up" 
+                        Width="210" 
+                        Margin="0 30 0 0" 
+                        />
+                
+            </StackPanel>
+
         </Grid>
-    </Grid>
+    </Grid> 
 </Window>

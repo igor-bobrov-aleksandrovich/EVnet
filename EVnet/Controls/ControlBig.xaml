@@ -22,7 +22,7 @@
                 Background="#FF1E1E1E"
                 FontSize="15"
                 Content="—"
-                Foreground="#FF8A56E1" 
+                Foreground="#FF5928AB" 
                 Click="btnHide_Click" Cursor="Hand"/>
         <Button x:Name="btnMax"
                 Grid.Column="3"
@@ -31,7 +31,7 @@
                 Background="#FF1E1E1E"
                 FontSize="15"
                 Content="□"
-                Foreground="#FF8A56E1" 
+                Foreground="#FF5928AB" 
                 Click="btnMax_Click" Cursor="Hand"/>
         <Button x:Name="btnClose"
                 Grid.Column="4"
@@ -40,7 +40,7 @@
                 Background="#FF1E1E1E"
                 FontSize="15"
                 Content="X"
-                Foreground="#FF8A56E1" 
+                Foreground="#FF5928AB" 
                 Click="btnClose_Click" Cursor="Hand"/>
         </Grid>
 </UserControl>
