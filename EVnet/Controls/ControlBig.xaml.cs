@@ -31,9 +31,12 @@ namespace EVnet.Controls
         {
             this.parent.WindowState = WindowState.Minimized;
         }
-        private void btnMax_Click(object sender, RoutedEventArgs e)
+        private void btnSwap_Click(object sender, RoutedEventArgs e)
         {
-            this.parent.WindowState = WindowState.Maximized;
+            if(this.parent.WindowState == WindowState.Normal)
+                this.parent.WindowState = WindowState.Maximized;
+            else
+                this.parent.WindowState = WindowState.Normal;
         }
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {

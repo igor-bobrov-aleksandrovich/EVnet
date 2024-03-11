@@ -5,20 +5,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EVnet.View;
 
 namespace EVnet
 {
-    /*abstract class WindowsBuilder
+    abstract class WindowsBuilder
     {
         public static void ShowMainWindow()
         {
-            var window = new MainWindow();
+            var window = new MainForm();
             var viewModel = new MainWindowModel();
             window.DataContext = viewModel;
             viewModel.EventCloseWindow += (sender, args) => { window.Close(); };
             window.Show();
         }       
-        public static void ShowRegWindow()
+        /*public static void ShowRegWindow()
         {
             var window = new RegistrationWindow();
             var viewModel = new RegistrationWindowModel();
@@ -33,6 +34,6 @@ namespace EVnet
             storeWindow.DataContext = viewModel;
             viewModel.EventCloseWindow += (sender, args) => { storeWindow.Close(); };
             storeWindow.Show();
-        }
-    }*/
+        }*/
+    }
 }

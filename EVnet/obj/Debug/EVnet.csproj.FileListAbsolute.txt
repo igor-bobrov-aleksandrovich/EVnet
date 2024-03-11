@@ -28,3 +28,5 @@ C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\Microsoft.Xaml.
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\EVnet.csproj.Up2Date
 C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\Dictionary.baml
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\View\MainForm.g.cs
+C:\Users\igorb\OneDrive\Документы\EVnet\EVnet\obj\Debug\View\MainForm.baml
